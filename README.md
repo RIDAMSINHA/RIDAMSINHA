@@ -57,7 +57,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="40" alt="Postgres logo"  />
   <img width="10" />  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40" alt="GraphQL logo"  />
-  <img width="10" />  
+  <img width="10" /> 
+    <img src="https://assets.stickpng.com/images/5848104fcef1014c0b5e4950.png" height="40" alt="SQL logo"  />
+  <img width="10" /> 
 </p>
 
 
