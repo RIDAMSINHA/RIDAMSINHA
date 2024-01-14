@@ -4,6 +4,7 @@
 <h3 align="center">Passionate Coder | Web Developer | Blockchain Enthusiast </h3>
 
 
+<div align="center">
 
 <a href="https://www.instagram.com/_ridam_sinha_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -17,6 +18,8 @@
   <a href="https://www.linkedin.com/in/ridam_sinha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridamsinha&theme=gruvbox&label=Profile%20views&color=0e75b6&style=flat" alt="ridamsinha" /> </p>
 
@@ -25,7 +28,7 @@
 
 <div align="center">
   <h3 align="center">📊 GitHub Stats 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ridamsinha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ridamsinha&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ridamsinha&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridamsinha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
 </div>
