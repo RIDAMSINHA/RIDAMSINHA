@@ -72,10 +72,10 @@
   <a href="https://github.com/RIDAMSINHA/repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=CONNECT-WALLET&theme=dark" />
   </a>
- <a href="https://github.com/RIDAMSINHA/repo1">
+ <a href="https://github.com/RIDAMSINHA/PASSPORT-BACKEND">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=PASSPORT-BACKEND&theme=dark" />
   </a>
-  <a href="https://github.com/RIDAMSINHA/repo1">
+  <a href="https://github.com/RIDAMSINHA/PASSPORT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=PASSPORT&theme=dark" />
   </a>
 
