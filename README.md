@@ -75,7 +75,7 @@
  <a href="https://github.com/RIDAMSINHA/PASSPORT-BACKEND">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=PASSPORT-BACKEND&theme=dark" />
   </a>
-  <a href="https://github.com/RIDAMSINHA/PASSPORT">
+  <a href="https://github.com/RIDAMSINHA/repo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=PASSPORT&theme=dark" />
   </a>
 
