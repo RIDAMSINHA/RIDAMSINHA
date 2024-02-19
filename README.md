@@ -66,10 +66,10 @@
 
 <h3 align="center">🌟 My Repositories 🌟</h3>
 <p align="center">
-  <a href="https://github.com/RIDAMSINHA/repo1">
+  <a href="https://github.com/RIDAMSINHA/CREATING-MY-OWN-ATM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=CREATING-MY-OWN-ATM&theme=dark" />
   </a>
-  <a href="https://github.com/RIDAMSINHA/repo1">
+  <a href="https://github.com/RIDAMSINHA/CONNECT-WALLET">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridamsinha&repo=CONNECT-WALLET&theme=dark" />
   </a>
  <a href="https://github.com/RIDAMSINHA/PASSPORT-BACKEND">
