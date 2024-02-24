@@ -83,7 +83,7 @@
 
 # 📈 Contribution Graph  
 
-[![Ridam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIDAMSINHA&custom_title=This%20is%20contribution%20graph&bg_color=ffffff&hide_border=true)](https://github.com/RIDAMSINHA/github-readme-activity-graph)
+[![Ridam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RIDAMSINHA&custom_title=This%20is%20contribution%20graph&bg_color=000000&hide_border=true)](https://github.com/RIDAMSINHA/github-readme-activity-graph)
 
 
 [//]: # (<h3 align="center">🚀 Connect with Me 🚀</h3>)
